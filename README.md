@@ -68,8 +68,8 @@ Designed a **Collapsible Slicer Panel** and a **Navigation Sidebar** using Power
 ---
 
 ## **How to view the project?**
-* **SQL Scripts**: [PowerBI/Power BI file for major quick commerce.pbix]
+* **SQL Scripts**: [SQL]
 
 * **Python Notebook**: [Python/Python file for major quick commerce.py]
 
-* **Power BI File**: [Link to your .pbix file]
+* **Power BI File**: [PowerBI/Power BI file for major quick commerce.pbix]
