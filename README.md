@@ -58,7 +58,7 @@ Designed a **Collapsible Slicer Panel** and a **Navigation Sidebar** using Power
 ---
 
 ## **How to view the project?**
-* **SQL Scripts**: [Link to your GitHub SQL Folder]
+* **SQL Scripts**: [https://github.com/RohitTiwari7879/Quick-Commerce-Logistics-Execution-Engine/blob/main/SQl_file%20for%20Major%20Quick%20commerce.sql]
 
 * **Python Notebook**: [Link to your GitHub Python Folder]
 
