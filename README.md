@@ -3,9 +3,9 @@
 
 ---
 
-![Executive Overview](Image/ExecutiveOverview.png)
-![Logistics Deep-Dive](Image/Customer Insight.png)
-![Customer Insight](Image/CustomerInsight.png)
+![Executive Overview](Image/Executive_Overview.png)
+![Logistics Deep-Dive](Image/Customer_Insight.png)
+![Customer Insight](Image/Customer_Insight.png)
 
 ---
 ## **📌 Project Overview**
