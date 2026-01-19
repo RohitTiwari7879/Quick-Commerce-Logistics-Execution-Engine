@@ -1,4 +1,3 @@
--- पुरानी टेबल हटा दें ताकि नई फ्रेश टेबल बने
 DROP TABLE IF EXISTS Cleaned_quickcommerce_major_v2_nlp;
 
 CREATE TABLE Cleaned_quickcommerce_major_v2_nlp AS
