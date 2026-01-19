@@ -3,6 +3,11 @@
 
 ---
 
+![Executive Overview](Image/Executive Overview.png)
+![Logistics Deep-Dive](Image/Logistics.png)
+![Customer Insight](Image/Customer Insight.png)
+
+---
 ## **📌 Project Overview**
 This project simulates and analyzes the operational data of a **Quick Commerce** platform (modeled after services like Blinkit or Zepto). The core objective was to build a robust system to track logistics performance, identify root causes for delivery delays (SLA Breaches), and analyze customer sentiment across various "Dark Stores" in **Gurugram**.
 
