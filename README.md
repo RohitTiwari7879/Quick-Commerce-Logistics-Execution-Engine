@@ -4,7 +4,7 @@
 ---
 
 ![Executive Overview](Image/ExecutiveOverview.png)
-![Logistics Deep-Dive](Image/LogisticsDeep_Dive.png)
+![Logistics Deep-Dive](Image/Customer Insight.png)
 ![Customer Insight](Image/CustomerInsight.png)
 
 ---
