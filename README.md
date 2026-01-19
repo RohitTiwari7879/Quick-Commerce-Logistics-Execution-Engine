@@ -2,6 +2,8 @@
 ### **End-to-End Data Analytics Project: From Raw Data to Actionable Insights**
 
 ---
+## **🔗 Live Interactive Dashboard**
+👉 [**Click here to view the Live Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYmQwYmYxMTItYmVlMC00YTg2LWI3YWYtMWQ5NDUxNDNjNzBhIiwidCI6IjgzY2U2OTI0LTViZjctNDE3ZS05YWZjLWMxOWQ4YjZkYzAwOCJ9)
 
 ## Executive Overview
 ![Executive Overview](Image/Executive_Overview.png)
