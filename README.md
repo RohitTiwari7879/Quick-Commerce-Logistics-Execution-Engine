@@ -54,3 +54,12 @@ Designed a **Collapsible Slicer Panel** and a **Navigation Sidebar** using Power
 * **Operational Discovery**: In **Sector 45**, the primary cause of delivery lag is high **Preparation Time** (kitchen efficiency) rather than rider transit.
 * **Traffic Trends**: **Cyber Hub** shows increased transit times during specific peak hours, suggesting a need for route optimization or localized rider clusters.
 * **Service Impact**: There is a direct correlation between **SLA Breaches** and **Negative Customer Sentiment**, proving that delivery speed is the highest priority for the customer base.
+
+---
+
+## **How to view the project?
+SQL Scripts: [Link to your GitHub SQL Folder]
+
+Python Notebook: [Link to your GitHub Python Folder]
+
+Power BI File: [Link to your .pbix file]
